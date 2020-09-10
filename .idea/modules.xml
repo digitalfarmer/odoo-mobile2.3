@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="exmo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/exmo.iml" filepath="$PROJECT_DIR$/.idea/modules/exmo.iml" group="exmo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intro-slider-lib/intro-slider-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/intro-slider-lib/intro-slider-lib.iml" group="exmo/intro-slider-lib" />
+    </modules>
+  </component>
+</project>
